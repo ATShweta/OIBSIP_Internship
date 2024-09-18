@@ -1,10 +1,13 @@
 Task 1 - Iris Flower Classification 
 
-The Iris flower dataset consists of three species: Setosa, Versicolor, and Virginica. Each species is distinguished by various measurements. The objective is to train a machine learning model to classify iris flowers based on these measurements.
+The Iris flower dataset consists of three species: Setosa, Versicolor, and Virginica. 
+Each species is distinguished by various measurements. 
+The objective is to train a machine learning model to classify iris flowers based on these measurements.
 
 --------------------------------------------------------------------------------------------------------
 -> Task Description
-Given the measurements of iris flowers, your task is to build and train a machine learning model that can accurately classify the species of the iris flowers. The dataset includes the following measurements for each flower:
+Given the measurements of iris flowers, your task is to build and train a machine learning model that can accurately classify the species of the iris flowers. 
+The dataset includes the following measurements for each flower:
 
 => Sepal Length
 => Sepal Width
