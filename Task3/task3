@@ -1,0 +1,7 @@
+Task 3 - Car Price Prediction with Machine Learning
+
+Description -
+The price of a car is influenced by numerous factors, such as the brand's reputation, car features, horsepower, mileage, and more. 
+Predicting car prices has become a key focus in machine learning research. 
+This project explores on how to develop a car price prediction model.
+In this project, I used the RandomForestRegressor algorithm to train the model and accurately predict car prices based on these key factors.
