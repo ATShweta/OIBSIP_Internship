@@ -11,8 +11,8 @@ This repository serves as a portfolio of my contributions and learning experienc
 <hr>
 
 Below are the tasks performed during the internship -
-<li> Task 1 - Iris Classification </li>
-<li> Task 2 - Umemployment Analysis </li>
-<li> Task 3 - Car Price Prediction </li>
-<li> Task 4 - Email Spam   </li>
-<li> Task 5 - Sales Prediction </li>
+<li> Task 1 - Iris Flower Classification </li>
+<li> Task 2 - Umemployment Analysis with Python </li>
+<li> Task 3 - Car Price Prediction with Machine Learning </li>
+<li> Task 4 - Email Spam Detection with MAchine Learning </li>
+<li> Task 5 - Sales Prediction using Python </li>
