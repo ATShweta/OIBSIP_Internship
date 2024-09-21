@@ -1,0 +1,14 @@
+Task - Sales Prediction Using Python
+
+Description - 
+In this task, the goal is to predict future sales based on various advertising efforts using machine learning techniques. 
+Sales prediction is a critical activity for businesses, as it helps them optimize their advertising budgets, target the right customer segments, and choose the most effective 
+platforms for their marketing campaigns. By analyzing historical data, we aim to build a predictive model that can estimate the impact of advertising spend on sales figures.
+
+This task involves:
+- Understanding and preprocessing the sales dataset, which includes columns such as 'TV', 'Radio', and 'Newspaper' advertising budgets, as well as corresponding 'Sales' figures.
+- Performing exploratory data analysis (EDA) to uncover key patterns and insights from the data.
+- Applying machine learning algorithms to develop a sales prediction model that can accurately forecast future sales based on advertising spend.
+- Evaluating the model’s performance using metrics like Mean Squared Error (MSE) and R-squared.
+
+The task serves as a practical demonstration of how businesses can leverage data-driven strategies to enhance decision-making and improve sales outcomes.
