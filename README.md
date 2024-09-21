@@ -1,4 +1,4 @@
-# OasisInfoByte_Internship
+# OasisInfoByte_Internship (OIBSIP)
 This repository contains a comprehensive collection of tasks and projects completed during my data science internship at Oasis Infobyte. It includes:
 
 <li> Data Analysis: Detailed analyses using various datasets, demonstrating proficiency in data cleaning, exploration, and visualization.</li>
